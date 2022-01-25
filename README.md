@@ -17,14 +17,19 @@
 - [ ] [Next.JS e React: Curso Intensivo - Masterclass #01 [2021]](https://www.youtube.com/watch?v=PHKaJlAeNLk)
 - [ ] [Next.JS e React: Curso Intensivo: Aplicação Completa - Masterclass #02 [2021]](https://www.youtube.com/watch?v=HJN5rX-3SDM)
 
+## Documentação do React
+
+- [ ] [Tutorial: Introdução ao React](https://pt-br.reactjs.org/tutorial/tutorial.html)
+- [ ] [Getting Started](https://pt-br.reactjs.org/docs/getting-started.html)
+    - [ ] [Introdução](https://pt-br.reactjs.org/docs/getting-started.html)
+    - [ ] [Principais Conceitos](https://pt-br.reactjs.org/docs/hello-world.html)
+
 ## Ferramentas
 
+- [Coolors.co - Gerador de Paletas](https://coolors.co/)
 - [Figma](https://www.figma.com/)
 - [Supabase](https://app.supabase.io/#)
 - [skynexui/components](https://github.com/skynexui/components)
-
-## Aulas
-
-### Aula 01
-
-- 
+- [React JS](https://pt-br.reactjs.org/)
+- [Next JS](https://nextjs.org/)
+- [MUI](https://mui.com/pt/)
