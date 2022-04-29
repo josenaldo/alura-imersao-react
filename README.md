@@ -23,6 +23,7 @@
 - [ ] [Getting Started](https://pt-br.reactjs.org/docs/getting-started.html)
     - [ ] [Introdução](https://pt-br.reactjs.org/docs/getting-started.html)
     - [ ] [Principais Conceitos](https://pt-br.reactjs.org/docs/hello-world.html)
+- [ ] [Github do React](https://github.com/facebook/react)
 
 ## Ferramentas
 
@@ -33,6 +34,8 @@
 - [React JS](https://pt-br.reactjs.org/)
 - [Next JS](https://nextjs.org/)
 - [MUI](https://mui.com/pt/)
+- [NPM](https://www.npmjs.com/)
+- [Yarn](https://yarnpkg.com/)
 
 ### Ferramentas extras
 
